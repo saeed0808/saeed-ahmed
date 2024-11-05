@@ -1,6 +1,6 @@
 # 👋 Welcome to DevOps/SRE with Saeed Ahmed
 ## 🧑‍💻 About Me
-I am a Veratile **DevOps/SRE** with extensive experience in designing, automating, and optimizing modern infrastructures. My journey in the IT industry has been marked by a passion for continuous improvement, seamless integration, and driving business success through reliable and scalable solutions.
+I am a Versatile **DevOps/SRE** with extensive experience in designing, automating, and optimizing modern infrastructures. My journey in the IT industry has been marked by a passion for continuous improvement, seamless integration, and driving business success through reliable and scalable solutions.
 
 - 🔥 **Years of Experience**: Over 9+ years of hands-on experience in the DevOps & SRE field.
 - 🌐 **Expertise**: Specializing in cloud computing, CI/CD pipelines, automation, container orchestration, Infra management and infrastructure as code (IaC).
@@ -11,7 +11,7 @@ Throughout my career, I have had the privilege of working on diverse projects, e
 
 - **Cloud Platforms**: AWS, Vmware, Linode, Vagrant
 - **Containerization**: Docker, Kubernetes
-- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, Bitnucket, Bamboo
+- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions, Bitbucket, Bamboo
 - **Infrastructure as Code**: Terraform, CloudFormation & CDK
 - **Monitoring & Logging**: Prometheus, Grafana, Datadog, Zabbix, ELK Stack, Nagios & CloudWatch
 
